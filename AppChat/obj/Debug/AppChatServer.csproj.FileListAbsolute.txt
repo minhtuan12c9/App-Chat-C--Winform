@@ -1,0 +1,16 @@
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\bin\Debug\AppChat.exe.config
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\bin\Debug\AppChat.exe
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\bin\Debug\AppChat.pdb
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\bin\Debug\Guna.UI2.dll
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\obj\Debug\AppChatServer.csproj.AssemblyReference.cache
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\obj\Debug\AppChat.ChatServer.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\obj\Debug\AppChat.Properties.Resources.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\obj\Debug\AppChatServer.csproj.GenerateResource.cache
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\obj\Debug\AppChatServer.csproj.CoreCompileInputs.cache
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\obj\Debug\AppChatServer.csproj.CopyComplete
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\obj\Debug\AppChat.exe
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\obj\Debug\AppChat.pdb
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\obj\Debug\AppChat.Controls.GetMess.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\obj\Debug\AppChat.Controls.SendMess.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\bin\Debug\Newtonsoft.Json.dll
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChat\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,17 @@
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\bin\Debug\AppChatClient.exe.config
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\bin\Debug\AppChatClient.exe
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\bin\Debug\AppChatClient.pdb
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\bin\Debug\Guna.UI2.dll
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\obj\Debug\AppChatClient.csproj.AssemblyReference.cache
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\obj\Debug\AppChatClient.ChatClient.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\obj\Debug\AppChatClient.Properties.Resources.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\obj\Debug\AppChatClient.csproj.GenerateResource.cache
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\obj\Debug\AppChatClient.csproj.CoreCompileInputs.cache
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\obj\Debug\AppChatClient.csproj.CopyComplete
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\obj\Debug\AppChatClient.exe
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\obj\Debug\AppChatClient.pdb
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\obj\Debug\AppChatClient.GetMess.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\obj\Debug\AppChatClient.SendMess.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\bin\Debug\Newtonsoft.Json.dll
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\bin\Debug\Newtonsoft.Json.xml
+D:\Hoc ky 1 nam 4\Lap trinh Windows\AppChat\AppChatClient\obj\Debug\AppChatClient.Controls.SendFile.resources
